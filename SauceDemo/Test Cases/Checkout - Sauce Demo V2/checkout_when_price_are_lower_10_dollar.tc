@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>checkout_when_price_are_lower_10_dollar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cab1555e-358a-4eb0-aa0b-ce5b31155257</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_checkout_saucedemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d008bee4-c89f-41bb-bc93-0d2018de8bc7</testCaseGuid>
+</TestCaseEntity>
